@@ -194,4 +194,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Django secret file 시크릿을 깃허브에 올리면 안되니까 여기에 적는거, 이파일은 깃허브에 안올리는거
+secrets.json
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,django
